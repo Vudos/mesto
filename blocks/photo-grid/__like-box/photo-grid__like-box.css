@@ -1,0 +1,8 @@
+.photo-grid__like-box {
+  margin-top: 25px;
+  padding: 0 21px 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

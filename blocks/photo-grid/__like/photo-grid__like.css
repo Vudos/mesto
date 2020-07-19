@@ -1,0 +1,11 @@
+.photo-grid__like {
+  width: 21px;
+  height: 19px;
+  margin-right: 6px;
+  box-sizing: border-box;
+  background: transparent;
+  border: none;
+  background-image: url(../../../images/icons/photo-grid_like.svg);
+  background-size: cover;
+  background-position: center;
+}

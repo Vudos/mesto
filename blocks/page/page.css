@@ -1,0 +1,10 @@
+@import url(./__content/page__content.css);
+
+.page {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  background-color: #000;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
+}
