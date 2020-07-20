@@ -10,8 +10,8 @@
 
 @media screen and (max-width: 768px) {
   .modal__wrap {
-    margin-left: 17px;
-    margin-right: 38px;
-    padding: 24px 26px 35px;
+    margin-left: 23px;
+    margin-right: 23px;
+    padding: 24px 15px 35px;
   }
 }

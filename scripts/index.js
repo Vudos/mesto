@@ -1,11 +1,11 @@
 const editButton = document.querySelector('.profile__edit-button');
 const closeButton = document.querySelector('.modal__close-button');
 const modalElement = document.querySelector('.modal');
-let profileName = document.querySelector ('.profile__name');
-let profileDescription = document.querySelector ('.profile__description');
+const profileName = document.querySelector ('.profile__name');
+const profileDescription = document.querySelector ('.profile__description');
 let formElement = document.querySelector('.form');
-let formName = document.querySelector('.form__name');
-let formDescription = document.querySelector('.form__description');
+let formName = document.querySelector('.form__item_type_name');
+let formDescription = document.querySelector('.form__item_type_description');
 
 function openedModal() {
   formName.value = profileName.textContent;

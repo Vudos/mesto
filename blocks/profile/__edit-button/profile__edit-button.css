@@ -1,9 +1,9 @@
 .profile__edit-button {
   width: 24px;
   height: 24px;
+  margin-top: 6px;
   padding: 0;
-  vertical-align: -moz-middle-with-baseline;
-  vertical-align: -webkit-baseline-middle;
+  vertical-align: middle;
   background: transparent;
   background-image: url(../../../images/icons/profile_edit-button.svg);
   background-size: contain;
@@ -22,6 +22,6 @@
   .profile__edit-button {
     width: 18px;
     height: 18px;
-    margin-bottom: 6px;
+    margin-top: 2px;
   } 
 }
